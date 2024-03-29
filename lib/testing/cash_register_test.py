@@ -6,8 +6,6 @@ import io
 import sys
 
 class TestCashRegister:
-    '''CashRegister in cash_register.py'''
-
     cash_register = CashRegister()
     cash_register_with_discount = CashRegister(20)
 
